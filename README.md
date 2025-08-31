@@ -1,21 +1,22 @@
-# ⏰ Digital Clock (Python)
+# ⏰ Digital Clock (Python + Tkinter)
 
-A simple digital clock built with **Python**.  
-It displays the current time in real-time with **AM/PM format** and also shows the **date**.
+A simple **digital clock with GUI** built using Python’s Tkinter library.  
+It shows the current time in **real-time** with AM/PM format and also displays the **date**.
 
 ---
 
 ## 🚀 Features
 - Real-time digital clock  
-- Displays hours, minutes, seconds  
+- Hours, minutes, and seconds update automatically  
 - AM/PM format  
-- Current date displayed  
+- Current date display  
+- Clean Tkinter-based user interface  
 
 ---
 
 ## 🛠️ Tech Stack
 - **Python**  
-- (Add the specific library if used, e.g., `tkinter` for GUI or `time` module if console-based)
+- **Tkinter** (for GUI)
 
 ---
 
