@@ -23,4 +23,4 @@ It shows the current time in **real-time** with AM/PM format and also displays t
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MeghPatel-007/clock.git
+   git clone https://github.com/MeghPatel-007/Clock.git
